@@ -1,1 +1,2 @@
-let yourArray = [1, 'two', true, 4.5, false];
+let yourArray;
+yourArray= [1, 'two', true,null, false];
